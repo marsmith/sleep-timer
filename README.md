@@ -1,5 +1,5 @@
 # sleep-timer
-A simple raspberry pi zero / pimoroni BLINKT child sleep timer.  This project is a low-cost LED sleep timer to help your child know via programmable LED lights when its OK to get out of bed, sleep, or have some quiet time in the morning without waking anyone up (hopefully).  The Pimoroni BLINKT module is really great because its cheap, easily programable via python, sits right on the pi heaer, and fits in most pi zero cases.
+A simple raspberry pi zero / pimoroni BLINKT child sleep timer.  This project is a low-cost LED sleep timer to help your child know via programmable LED lights when its OK to get out of bed, sleep, or have some quiet time in the morning without waking anyone up (hopefully).  The Pimoroni BLINKT module is really great because its cheap, easily programable via python, sits right on the pi heaer, and fits in most pi zero cases.  Idea based on [this project](https://www.instructables.com/id/White-Noise-Night-Light/)
 
 It works like this:
 - Between 7:30pm (bedtime) and 6:15am the sleep-timer shows 2 red LEDs, meaning 'stay in bed'.
