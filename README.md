@@ -1,10 +1,13 @@
 # sleep-timer
 A simple raspberry pi zero / pimoroni BLINKT child sleep light timer.  This project is a low-cost LED sleep timer to help your child know when its OK to get out of bed, sleep, or have some quiet time in the morning without waking anyone up (hopefully).  The Pimoroni BLINKT module is really great because its cheap, easily programable via python, and sits right on the pi heaer, and fits in most pi zero cases.
 
+![Sleep Timer](sleep-timer.jpg)
+
 ## Hardware requirements
 - Raspberry Pi Zero with header (wifi version) (otherwise youll need a real time clock) [link](https://www.adafruit.com/product/3708)
 - MicroSD card (8gb or greater)
 - Pimoroni BLINKT [link](https://www.adafruit.com/product/3195)
+- Pi Zero case (optional)
 
 ## OS setup
 - Flash and istall latest raspbian from [here](https://www.raspberrypi.org/downloads/raspbian/) to microSD card
